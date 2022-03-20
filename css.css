@@ -1,0 +1,16 @@
+#col1{
+    margin-right: 100px;
+    border: black 5px solid;
+    border-radius: 20px;
+}
+
+
+div>h1{
+    font-family: 'Raleway', sans-serif;
+}
+
+#tabla_usuarios{
+    overflow-y: scroll;
+    height: 300px;
+    width: 100px;
+}
